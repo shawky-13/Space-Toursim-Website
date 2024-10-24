@@ -1,6 +1,7 @@
 # Space Tourism Website 🌌🚀
 
-![Project Banner](https://shawky-13.github.io/Space-Toursim-Website/index.html) <!-- Optional: Add a screenshot of your project -->
+## Project preview: 
+https://shawky-13.github.io/Space-Toursim-Website/index.html
 
 ## Table of Contents
 - [About the Project](#about-the-project)
@@ -49,7 +50,7 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 ## Contact
 For any inquiries or questions, feel free to contact me at:
-- Email:shawkymshrif@gmail.com
-- Github:[shawky-13](https://github.com/shawky-13)
+- Email: shawkymshrif@gmail.com
+- Github: [shawky-13](https://github.com/shawky-13)
 
 
