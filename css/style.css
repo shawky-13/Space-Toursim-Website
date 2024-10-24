@@ -185,6 +185,10 @@ section.space {
         width: 80% !important;
         margin: auto !important;
     }
+    
+    main ul li a {
+      font-size: 0.9rem !important;
+    }
 
     main .moon-name {
         font-size: 4rem !important;
