@@ -7,7 +7,7 @@ let moonDist = document.querySelector(".moon-distance");
 let moonTrav = document.querySelector(".moon-travel");
 
 // selecting the tabs of destination page
-fetch("/js/data.json")
+fetch("./js/data.json")
   .then((Response) => {
     if (!Response.ok) {
       throw new Error(`Response Status: ${Response.status}`);
