@@ -4,7 +4,7 @@ let techDesc = document.querySelector(".tech-description");
 let techImg = document.getElementById("techImg");
 
 // selecting the tabs of crew page
-fetch("/data.json")
+fetch("/js/data.json")
   .then((Response) => {
     if (!Response.ok) {
       throw new Error(`Response Status: ${Response.status}`);
